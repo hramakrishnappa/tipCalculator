@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  tipCalculator
 //
-//  Created by Harsha Ram on 3/5/17.
+//  Created by Harsha Ram on 3/13/17.
 //  Copyright © 2017 Harsha Ram. All rights reserved.
 //
 
