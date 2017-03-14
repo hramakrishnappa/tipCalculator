@@ -14,6 +14,7 @@
 		72AE5D431E6C169900D7E2DC /* tipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AE5D421E6C169900D7E2DC /* tipCalculatorTests.swift */; };
 		72AE5D4E1E6C169900D7E2DC /* tipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AE5D4D1E6C169900D7E2DC /* tipCalculatorUITests.swift */; };
 		72F398661E7746F000619BE6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F398651E7746F000619BE6 /* SettingsViewController.swift */; };
+		72F398681E776B3300619BE6 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 72F398671E776B3300619BE6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		72AE5D4D1E6C169900D7E2DC /* tipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalculatorUITests.swift; sourceTree = "<group>"; };
 		72AE5D4F1E6C169900D7E2DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72F398651E7746F000619BE6 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		72F398671E776B3300619BE6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		72AE5D211E6C169800D7E2DC = {
 			isa = PBXGroup;
 			children = (
+				72F398671E776B3300619BE6 /* README.md */,
 				72AE5D2C1E6C169900D7E2DC /* tipCalculator */,
 				72AE5D411E6C169900D7E2DC /* tipCalculatorTests */,
 				72AE5D4C1E6C169900D7E2DC /* tipCalculatorUITests */,
@@ -260,6 +263,7 @@
 			files = (
 				72AE5D301E6C169900D7E2DC /* ViewController.swift in Sources */,
 				72AE5D2E1E6C169900D7E2DC /* AppDelegate.swift in Sources */,
+				72F398681E776B3300619BE6 /* README.md in Sources */,
 				72F398661E7746F000619BE6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
