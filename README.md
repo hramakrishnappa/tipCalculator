@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *tipCalculator*
 
 tipCalculator is a tip calculator application for iOS.
 
@@ -27,11 +27,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/p91H4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'http://i.imgur.com/a/5ndtW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Convertio](https://convertio.co/mov-gif/).
 
 ## Notes
 
-Capturing screen with LiceCap as described in the tutorial. 
+Capturing screen with LiceCap as described in the tutorial was difficult. I used an online tool instead.
 
