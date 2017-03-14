@@ -29,6 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src= 'http://i.imgur.com/a/5ndtW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Link to image: http://i.imgur.com/a/5ndtW
+
 GIF created with [Convertio](https://convertio.co/mov-gif/).
 
 ## Notes
